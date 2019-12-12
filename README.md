@@ -1,4 +1,4 @@
-# gitdemo
+# websocketdemo
 ```
 简单的websocket  node + vue + nodejs-websocket
 ```
