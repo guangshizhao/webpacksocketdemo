@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "nodejs-websocket": "^1.7.2"
+  }
+}
