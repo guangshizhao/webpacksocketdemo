@@ -32,6 +32,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### 服务端 
 ```
-server文件夹
+server文件夹下 npm install
+
 npm start
 ```
